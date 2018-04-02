@@ -7,3 +7,5 @@
 * `undefined` is a type. It is when a variable does not exist. All assigned (no value assigned to it yet) variables have a value of undefined.
 * `undeclared` means the variable was declared without the `var` keyword, e.g. `cheese = 2;` It is in the global scope.
 * `AJAX` Asyncronous javascript and xml
+* The `Promise` object represents the eventual completion (or failure) of an asynchronous operation, and its resulting value.
+* There is a way to reduce functions of more than one argument to functions of one argument, a way called `currying` after Haskell B. Curry.
